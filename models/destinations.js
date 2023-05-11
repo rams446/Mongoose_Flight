@@ -5,4 +5,4 @@ const destinationSchema = new Schema({
     arrival : {type: Date},
 });
 
-module.exports = model('Destination',destinationSchema );
+module.exports = model('Destination', destinationSchema);
